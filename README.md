@@ -16,8 +16,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jesmine Gandhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesmine-gandhi/)](https://www.linkedin.com/in/jesmine-gandhi/)
-[![Medium Badge](https://img.shields.io/badge/Jesmine Gandhi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@jesminegandhi)](https://medium.com/@jesminegandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-Jesmine%20Gandhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesmine-gandhi/)](https://www.linkedin.com/in/jesmine-gandhi/)
+[![Medium Badge](https://img.shields.io/badge/Jesmine%20Gandhi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@jesminegandhi)](https://medium.com/@jesminegandhi)
 
 ## ⚡ Technologies
 
