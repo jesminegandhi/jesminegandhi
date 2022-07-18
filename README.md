@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on building my DevOps skills
+- 🔎 I am actively seeking entry-level or junior DevOps cloud engineering roles.
 - 🌱 I’m currently learning AWS, Python, Docker & Terraform
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
