@@ -7,8 +7,9 @@
 
 ### Hi there 👋
 
-- 🔎 I am actively seeking entry-level or junior DevOps cloud engineering roles.
-- 🌱 I’m currently learning AWS, Python, Docker & Terraform
+- 👀 I’m a DevOps Engineer
+- 📚 I’m currently learning AWS, Python, K8s, Terraform & Docker
+- 💕 I’m looking to collaborate on anything & everything to do with DevOps!
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
@@ -33,9 +34,9 @@ Find out more about me & feel free to connect with me here:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
-
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jesminegandhi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesminegandhi&hide=TeX&layout=compact)
 
-
+-->
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=jesminegandhi%2Fjesminegandhi&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=jesminegandhi%2Fjesminegandhi)
